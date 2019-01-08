@@ -8,10 +8,11 @@ This page is for academic usage. Beyond the courses provided in CityU HK, there 
 - Control Flow
 - Basic Pointer
 
-  PC  Chapter 1
-  LIU Chapter 1-4
+  PC  `Chapter 1`
+  
+  LIU `Chapter 1-4`
 
-## CS3334 Data Structures *I am still here*
+## CS3334 Data Structures *\*I am still here\**
 
 - Search and Sort
 - Array, Linked List, *Vector*
@@ -20,8 +21,9 @@ This page is for academic usage. Beyond the courses provided in CityU HK, there 
 - Set, *Union-Find*
 - Binary Tree, B Tree, AVL Tree, B+ Tree
 
-  PC  Chapter 2
-  LIU Chapter 5-6
+  PC  `Chapter 2`
+  
+  LIU `Chapter 5-6`
 
 ## CS4335 Design and Analyze Algorithms
 
